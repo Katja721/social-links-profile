@@ -87,3 +87,15 @@ button {
 .profile__github {
     margin: 0;
 }
+@media screen and (max-width: 320px) {
+    .profile {
+        width: 72vw;
+        padding: 1.5rem;
+    }
+    .profile__description {
+        font-size: 0.78rem;
+    }
+    button {
+        width: 72vw;
+    }
+}
