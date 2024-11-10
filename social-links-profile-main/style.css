@@ -111,3 +111,11 @@ button {
         width: 65vw;
     }
 }
+@media screen and (min-width: 377px) and (max-width: 768px) {
+    .profile {
+        width: 54.16vw;
+    }
+    button {
+        width: 54.16vw;
+    }
+}
