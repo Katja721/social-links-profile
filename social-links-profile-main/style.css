@@ -99,3 +99,15 @@ button {
         width: 72vw;
     }
 }
+@media screen and (min-width: 321px) and (max-width: 376px) {
+    .profile {
+        width: 65vw;
+        padding: 1.5rem;
+    }
+    .profile__description {
+        font-size: 0.82rem;
+    }
+    button {
+        width: 65vw;
+    }
+}
